@@ -1,0 +1,20 @@
+{
+  "name": "custom-vscode-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": [
+          "cpp",
+          "c"
+        ],
+        "path": "./snippets/cpp/cpp.json"
+      },
+      {
+        "language": [
+          "md"
+        ],
+        "path": "./snippets/markdown/md.json"
+      }
+    ]
+  }
+}
